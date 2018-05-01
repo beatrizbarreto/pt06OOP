@@ -7,3 +7,18 @@ h1 {
     font-size: 300%;
     text-shadow: 0 0 80px #FFFFFF
 }
+h2 {
+    color: #FFEE51;
+    font-family: verdana;
+    font-size: 150%;
+}
+h3 {
+    color: #FFE66A;
+    font-family: verdana;
+    font-size: 100%;
+}
+h4 {
+    color: #FFE66A;
+    font-family: verdana;
+    font-size: 100%;
+}
